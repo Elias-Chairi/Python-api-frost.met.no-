@@ -10,7 +10,7 @@ ar_liste = []
 ar_liste_tekst = []
 
 # Insert your own client ID here
-client_id = '43dc512c-9ec9-4721-8333-9c87d4281ad7'
+client_id = ''
 
 
 # Define endpoint and parameters
