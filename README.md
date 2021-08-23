@@ -6,6 +6,9 @@ Fungerer slik:
   * Henter ut dataene i en loop som hver gang legger det i en liste.
   * Til slutt så skriver den ut lista i csv dokumentet.
 
+
+Du må også gå in på frost.met.no og generere en client ID som du putter inn i koden.
+
 Python modules som trengs (bruker python3):
   * import csv
   * import requests
